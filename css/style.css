@@ -1,0 +1,97 @@
+/* index1-olan */
+.none{
+    display: none;
+}
+
+.inline{
+    display: inline;
+    color: red;
+}
+
+.block{
+    display: block;
+    color: red;
+}
+
+.inblock{
+    display: inline-block;
+    color: red;
+}
+
+/* index2-olan */
+
+.olcu{
+    width: 500px;
+}
+
+.text{
+    font-size: 30px;
+    margin-left: 50px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.text2{
+    margin-top: -10px;
+}
+
+.btn{
+    background-color: #9A74E2;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    padding: 20px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 60px;
+    font-size: 30px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+
+}
+.btn:hover{
+    background-color: #7759af;}
+
+.card{
+    margin-left: 100px;
+    box-shadow: 0 8px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 500px;
+    height: 750px;
+}
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+
+.yox{
+    cursor: none;
+}
+
+/* index3-cu olan */
+
+.yanyana{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.tex{
+    width: 450px;
+    height: 300px;
+    border-radius: 20px;
+    opacity: 0.6;
+}
+.tex1{
+    width: 350px;
+    margin-left: 5px;
+    margin-top: 81px;
+    border-radius: 20px;
+    opacity: 0.8;
+}
+.tex2{
+    width: 400px;
+    margin-left: 5px;
+    border-radius: 20px;
+    margin-top: 56px;
+    opacity: 0.9;
+}
